@@ -1,3 +1,4 @@
+#This implementation is without scklearn to get deep concept with Graphical interface
 from tkinter import *
 import pandas as pd
 dt=pd.read_csv('dataset.csv')
